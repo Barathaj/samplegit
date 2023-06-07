@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet"href="C:\Users\USER\Desktop"
-</head>
-<body>
-
-<h1>this is heading</h1>
-<p>this is paragraph.</p>
-
-</body>
-</html>
+barath raj
